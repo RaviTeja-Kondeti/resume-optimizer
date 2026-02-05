@@ -1,5 +1,10 @@
 # ATS Resume Optimizer
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-3.0-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
+[![Claude API](https://img.shields.io/badge/Claude-API-orange?style=flat-square)](https://www.anthropic.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
 An intelligent web application that tailors resumes to job descriptions using AI, making them ATS-friendly and optimized for interviews.
 
 ## Features
